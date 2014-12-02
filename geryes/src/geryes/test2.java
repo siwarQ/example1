@@ -13,5 +13,8 @@ public class test2 {
 	public static void sayHello(){
 		System.out.println("VERONICA!!");		
 	}
+	public static void zana5a(){
+		System.out.println("VERONICA21!!");
+	}
 
 }
